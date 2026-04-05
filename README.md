@@ -3,3 +3,15 @@
 💻 Aspiring Software Developer  
 🎓 Computer Science Student from India  
 🚀 Passionate about Web Development and Problem Solving 
+
+
+
+
+
+
+
+## 📊 GitHub Stats
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=Srish09-S&show_icons=true&theme=tokyonight)
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Srish09-S&theme=tokyonight)
