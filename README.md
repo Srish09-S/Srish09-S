@@ -46,5 +46,9 @@
 ![snake gif](https://github.com/Srish09-S/Srish09-S/blob/output/github-contribution-grid-snake.svg)
 
 ---
+
+<img src="https://github-profile-trophy.vercel.app/?username=Srish09-S&theme=tokyonight"/>
+
+
 ⭐ *Thanks for visiting my profile!*
 
