@@ -43,7 +43,7 @@
 
 ---
 
-![snake gif](https://github.com/Srish09-S/Srish09-S/blob/output/github-contribution-grid-snake.svg)
+![snake gif](https://github.com/Srish09-S/Srish09-S/blob/output/github-contribution-grid-snake-dark.svg)
 
 
 ⭐ *Thanks for visiting my profile!*
