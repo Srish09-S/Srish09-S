@@ -40,5 +40,11 @@
 ---
 
 <img src="https://komarev.com/ghpvc/?username=Srish09-S&label=Profile%20Views&color=blue&style=flat"/>
+
+---
+
+![snake gif](https://github.com/Srish09-S/Srish09-S/blob/output/github-contribution-grid-snake.svg)
+
+---
 ⭐ *Thanks for visiting my profile!*
 
