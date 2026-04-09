@@ -34,6 +34,7 @@
 
 ### 🌐 Connect With Me
 
+*  📱 Gmail: 9creationjbp@gmail.com
 * 💼 GitHub: https://github.com/Srish09-S
 * 📫 LinkedIn: https://www.linkedin.com/in/srishti-shrivastava-70526033b?utm_source=share_via&utm_content=profile&utm_medium=member_android
 
