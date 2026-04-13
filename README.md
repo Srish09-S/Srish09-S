@@ -12,7 +12,6 @@
 - 💻 Passionate about **Web Development & Problem Solving**  
 - 📚 Currently mastering **DSA & JavaScript**  
 - 🌱 Exploring new technologies and building real-world projects  
-- 🎯 Goal: Become a **skilled Software Engineer**  
 
 ---
 
