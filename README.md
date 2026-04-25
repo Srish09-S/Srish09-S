@@ -80,7 +80,7 @@
 
 ---
 
-## 🐍 Contribution Snake  
+## 🐍 Contribution Snake 🐍
 
 <p align="center">
   <img src="https://github.com/Srish09-S/Srish09-S/blob/output/github-contribution-grid-snake-dark.svg">
