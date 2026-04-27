@@ -48,7 +48,7 @@
 
 ---
 
-## 📈 Contribution Activity  
+## 📈 Contribution Activity  :
 
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Srish09-S&theme=tokyo-night"/>
@@ -56,7 +56,7 @@
 
 ---
 
-## 🧠 Currently Learning  
+## 🧠 Currently Learning  :
 
 - 📌 Data Structures & Algorithms  
 - ⚛️ React.js (next step 👀)  
