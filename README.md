@@ -88,7 +88,7 @@
 
 ---
 
-## 👀 Profile Views  
+## 👀 Profile Views  :
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=Srish09-S&label=Profile%20Views&color=blue&style=flat"/>
