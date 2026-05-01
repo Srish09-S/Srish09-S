@@ -64,7 +64,7 @@
 
 ---
 
-## 🌐 Connect With Me  :
+## 🌐 Connect With Me  
 
 <p align="center">
   <a href="mailto:9creationjbp@gmail.com">
