@@ -56,7 +56,7 @@
 
 ---
 
-## 🧠 Currently Learning  :
+## 🧠 Currently Learning  
 
 - 📌 Data Structures & Algorithms  
 - ⚛️ React.js (next step 👀)  
