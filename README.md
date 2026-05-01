@@ -23,7 +23,7 @@
 
 ---
 
-## 🌟 Featured Projects  :
+## 🌟 Featured Projects  
 
 🔹 **Smart Expense Tracker**  
 > Track expenses with interactive charts and insights  
