@@ -2,7 +2,6 @@
 
 
 
-
 <p align="center"> 
   <img src="https://readme-typing-svg.herokuapp.com/?lines=Aspiring+Software+Engineer;Web+Developer;DSA+Learner;JavaScript+Enthusiast&center=true&width=500&height=45">
 </p>
