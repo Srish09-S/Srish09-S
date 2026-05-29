@@ -9,7 +9,7 @@
 
 
 ## 🚀 About Me 
-
+ 
 - 🎓 Computer Science Student from India  
 - 💻 Passionate about **Web Development & Problem Solving**  
 - 📚 Currently mastering **DSA & JavaScript**  
