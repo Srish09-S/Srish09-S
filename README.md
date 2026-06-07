@@ -1,4 +1,4 @@
-👋 Heyy there, I'm Srishti ! !
+ok👋 Heyy there, I'm Srishti ! !
     
 <p align="center">  
   <img src="https://readme-typing-svg.herokuapp.com/?lines=Aspiring+Software+Engineer;Web+Developer;DSA+Learner;JavaScript+Enthusiast&center=true&width=500&height=45">
@@ -17,7 +17,7 @@
 
 ---
 
-## ⚡ Tech Stack  
+## ⚡ Tech Stack   
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=html,css,js,cpp,git,github,vscode" />
