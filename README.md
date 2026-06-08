@@ -7,7 +7,6 @@ ok👋 Heyy there, I'm Srishti ! !
  
 ---  
  
-
 ## 🚀 About Me
  
 - 🎓 Computer Science Student from India  
