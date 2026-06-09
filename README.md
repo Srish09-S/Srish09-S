@@ -6,7 +6,7 @@ ok👋 Heyy there, I'm Srishti ! !
    
 ---  
  
-## 🚀 About Me
+## 🚀 About Me 
  
 - 🎓 Computer Science Student from India  
 - 💻 Passionate about **Web Development & Problem Solving**  
