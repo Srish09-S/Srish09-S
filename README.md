@@ -50,7 +50,6 @@ ok👋 Heyy there, I'm Srishti ! !
 
 ## 📈 Contribution Activity  
 
-![Coding Streak](https://readmeme.eu.cc/api/streak.svg?theme=crimson&startDate=2023-01-01&unit=days&customLabel=LeetCode+Grind&platform=leetcode)
 
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Srish09-S&theme=tokyo-night"/>
