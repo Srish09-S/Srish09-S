@@ -38,15 +38,6 @@
 
 ---
 
-## 📊 GitHub Stats 
-
-<p align="center">
-
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Srish09-S&theme=tokyonight"/>
-</p>
-
----
-
 ## 📈 Contribution Activity  
 
 
