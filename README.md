@@ -78,16 +78,6 @@
 <tr>
 <td width="50%">
 
-### 🚀 AARAMBH
-
-**Industrial approval & compliance platform**
-
-A unified platform aimed at simplifying the complicated journey of registrations, approvals, compliance and government support for entrepreneurs.
-
-`Next.js` `React` `Node.js` `AI` `SaaS`
-
-**→ Hackathon Project**
-
 </td>
 
 <td width="50%">
