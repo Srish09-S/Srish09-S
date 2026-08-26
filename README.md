@@ -58,14 +58,6 @@ const srishti = {
 
 ## 🚀 What I've Been Building
 
-### 🌱 AARAMBH
-
-**AI-driven platform for simplifying industrial approvals & compliance**
-
-> A unified platform designed to help entrepreneurs navigate registrations, approvals, compliance and government support services.
-
-**Focus:** Full-Stack Development • AI • Government Services • SaaS
-
 ---
 
 ### 💰 Smart Expense Tracker
