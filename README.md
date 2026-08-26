@@ -1,126 +1,45 @@
-<!-- ═══════════════════════════════════════════════════════════════ -->
+<h1 align="center">Hey, I'm Srishti 👋</h1>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=220&section=header&text=SRISHTI&fontSize=70&fontColor=ffffff&fontAlignY=40&desc=BUILDING%20THINGS%20THAT%20MATTER&descAlignY=62&descSize=16&animation=fadeIn"/>
+  <img src="https://readme-typing-svg.herokuapp.com/?font=JetBrains+Mono&size=22&pause=1000&color=7C3AED&center=true&vCenter=true&width=650&lines=Computer+Science+Student;Web+Developer;DSA+Learner;Building+%26+Breaking+Things">
 </p>
 
 <p align="center">
   <a href="https://github.com/Srish09-S">
-    <img src="https://img.shields.io/badge/GITHUB-0d1117?style=for-the-badge&logo=github&logoColor=white"/>
+    <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white">
   </a>
   <a href="https://www.linkedin.com/in/srishti-shrivastava-70526033b">
-    <img src="https://img.shields.io/badge/LINKEDIN-0d1117?style=for-the-badge&logo=linkedin&logoColor=0A66C2"/>
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white">
   </a>
   <a href="mailto:9creationjbp@gmail.com">
-    <img src="https://img.shields.io/badge/EMAIL-0d1117?style=for-the-badge&logo=gmail&logoColor=EA4335"/>
+    <img src="https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white">
   </a>
 </p>
 
 <br>
 
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?font=JetBrains+Mono&size=22&duration=2500&pause=700&color=8BE9FD&center=true&vCenter=true&width=700&height=50&lines=Computer+Science+Student;Full+Stack+Developer;DSA+%7C+JavaScript+%7C+Web;Turning+ideas+into+working+software."/>
-</p>
-
----
-
-## `01 / WHO AM I`
-
-```text
-┌─────────────────────────────────────────────────────────────┐
-│                                                             │
-│   Srishti Shrivastava                                      │
-│   ─────────────────────                                    │
-│                                                             │
-│   CS Student        →  learning by building                │
-│   Developer         →  web • backend • systems              │
-│   Problem Solver    →  DSA • logic • debugging              │
-│   Builder           →  hackathons • products • experiments  │
-│                                                             │
-│   CURRENT STATUS                                           │
-│   ──────────────                                           │
-│   ● Building full-stack projects                            │
-│   ● Grinding DSA                                           │
-│   ● Exploring React / Next.js / Node.js                    │
-│   ● Looking for harder problems to solve                   │
-│                                                             │
-└─────────────────────────────────────────────────────────────┘
-```
-
-> **I don't want to just learn technologies.
-> I want to understand what I can build with them.**
-
----
-
-## `02 / THE STACK`
-
-<p align="center">
-
-### `LANGUAGES`
-
-<img src="https://skillicons.dev/icons?i=cpp,js,html,css" />
-
-### `BUILDING WITH`
-
-<img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,express,tailwind,mongodb" />
-
-### `TOOLS`
-
-<img src="https://skillicons.dev/icons?i=git,github,vscode,vercel" />
-
-</p>
-
----
-
-## `03 / THINGS I'VE BUILT`
-
-<table>
+<table align="center">
 <tr>
-<td width="50%">
+<td width="55%">
+
+### 👩‍💻 About Me
+
+I'm a **Computer Science student** who enjoys turning ideas into working software.
+
+* 💻 Building web applications
+* 🧠 Learning DSA & problem solving
+* ⚡ Exploring modern JavaScript
+* 🚀 Participating in hackathons
+* 🌱 Learning by building real projects
+
+**Current mindset:**
+`Learn → Build → Break → Fix → Repeat`
 
 </td>
 
-<td width="50%">
+<td width="45%" align="center">
 
-### 💰 Smart Expense Tracker
-
-**Know where your money goes.**
-
-An interactive expense management dashboard with visual analytics and dynamic financial insights.
-
-`JavaScript` `Chart.js` `HTML` `CSS`
-
-**→ Web Application**
-
-</td>
-</tr>
-
-<tr>
-<td width="50%">
-
-### 🌍🌙 Chase Game
-
-**Earth vs Moon.**
-
-A browser game inspired by Snake mechanics where Earth continuously chases the Moon.
-
-`JavaScript` `Game Logic` `DOM`
-
-**→ Browser Game**
-
-</td>
-
-<td width="50%">
-
-### 🔮 More Experiments
-
-**Ideas → prototypes → lessons**
-
-I'm constantly experimenting with new technologies, APIs, architectures and ideas.
-
-`Learning` `Building` `Breaking` `Fixing`
-
-**→ In Progress**
+<img src="https://github-readme-stats.vercel.app/api?username=Srish09-S&show_icons=true&hide_border=true&theme=transparent&title_color=7C3AED&icon_color=7C3AED&text_color=555555" width="100%">
 
 </td>
 </tr>
@@ -128,90 +47,167 @@ I'm constantly experimenting with new technologies, APIs, architectures and idea
 
 ---
 
-## `04 / CURRENTLY IN THE LAB`
-
-```diff
-+ DSA
-+ Advanced JavaScript
-+ React
-+ Full-Stack Development
-+ Backend Architecture
-+ Building better projects
-
-- Writing code just for the sake of writing code
-```
-
-### Current objective
-
-**Become the developer who can take an idea from**
-
-`PROBLEM → ARCHITECTURE → CODE → DEPLOYMENT`
-
----
-
-## `05 / GITHUB TELEMETRY`
+## 🛠️ Tech Stack
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Srish09-S&show_icons=true&theme=transparent&hide_border=true&title_color=8BE9FD&text_color=c9d1d9&icon_color=BD93F9" width="48%"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Srish09-S&layout=compact&theme=transparent&hide_border=true&title_color=8BE9FD&text_color=c9d1d9" width="40%"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Srish09-S&theme=transparent&hide_border=true&ring=BD93F9&fire=FF79C6&currStreakLabel=8BE9FD"/>
+  <img src="https://skillicons.dev/icons?i=cpp,js,html,css,react,nextjs,nodejs,express,mongodb,tailwind,git,github,vscode&perline=7">
 </p>
 
 ---
 
-## `06 / ACTIVITY`
+## 🚀 Featured Projects
+
+<table>
+<tr>
+
+<td width="50%">
+
+<h3>🚀 AARAMBH</h3>
+
+AI-driven platform focused on simplifying **industrial approvals, compliance and government support services** for entrepreneurs.
+
+<br>
+
+`Next.js` `React` `Node.js` `AI`
+
+<br><br>
+
+<a href="https://aarambh-sepia.vercel.app/">
+<img src="https://img.shields.io/badge/Live%20Demo-7C3AED?style=for-the-badge">
+</a>
+
+<a href="https://github.com/virajkvk18/AARAMBH">
+<img src="https://img.shields.io/badge/Source-181717?style=for-the-badge&logo=github">
+</a>
+
+</td>
+
+<td width="50%">
+
+<h3>💰 Smart Expense Tracker</h3>
+
+A simple finance dashboard for tracking expenses and visualizing spending patterns through interactive charts.
+
+<br>
+
+`JavaScript` `Chart.js` `HTML` `CSS`
+
+<br><br>
+
+<img src="https://img.shields.io/badge/Web%20Application-111827?style=for-the-badge">
+
+</td>
+
+</tr>
+
+<tr>
+
+<td width="50%">
+
+<h3>🌍🌙 Chase Game</h3>
+
+A browser game where Earth chases the Moon, inspired by classic Snake-style gameplay.
+
+<br>
+
+`JavaScript` `Game Logic` `DOM`
+
+<br><br>
+
+<img src="https://img.shields.io/badge/Browser%20Game-111827?style=for-the-badge">
+
+</td>
+
+<td width="50%">
+
+<h3>🔨 More in the Lab</h3>
+
+Currently experimenting with:
+
+<br>
+
+`React` · `Next.js` · `Node.js` · `APIs` · `AI`
+
+<br><br>
+
+<img src="https://img.shields.io/badge/Coming%20Soon-7C3AED?style=for-the-badge">
+
+</td>
+
+</tr>
+</table>
+
+---
+
+## 🧠 Currently Learning
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Srish09-S&bg_color=0d1117&color=8be9fd&line=bd93f9&point=ffffff&area=true&hide_border=true"/>
+
+|         Area        | Focus                          |
+| :-----------------: | :----------------------------- |
+|      🧩 **DSA**     | Data Structures & Algorithms   |
+|   ⚡ **JavaScript**  | Advanced concepts & patterns   |
+|     ⚛️ **React**    | Modern frontend development    |
+|  🌐 **Full Stack**  | Frontend → Backend → Database  |
+| 🏗️ **Development** | Building scalable applications |
+
 </p>
 
 ---
 
-## `07 / CONTRIBUTION MATRIX`
+## 📊 GitHub Analytics
 
 <p align="center">
-  <img src="https://github.com/Srish09-S/Srish09-S/blob/output/github-contribution-grid-snake-dark.svg"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=Srish09-S&show_icons=true&hide_border=true&theme=transparent&title_color=7C3AED&icon_color=7C3AED" height="170">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Srish09-S&layout=compact&hide_border=true&theme=transparent&title_color=7C3AED" height="170">
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Srish09-S&theme=transparent&hide_border=true&ring=7C3AED&fire=7C3AED&currStreakLabel=7C3AED">
 </p>
 
 ---
 
-## `08 / FIND ME`
+## 📈 Contribution Activity
 
 <p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Srish09-S&theme=github-compact&hide_border=true&area=true">
+</p>
+
+---
+
+## 🐍 Contribution Snake
+
+<p align="center">
+  <img src="https://github.com/Srish09-S/Srish09-S/blob/output/github-contribution-grid-snake-dark.svg">
+</p>
+
+---
+
+## 🌐 Let's Connect
+
+<p align="center">
+
+<a href="mailto:9creationjbp@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white">
+</a>
 
 <a href="https://github.com/Srish09-S">
-<img src="https://img.shields.io/badge/GitHub-0d1117?style=for-the-badge&logo=github"/>
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white">
 </a>
 
 <a href="https://www.linkedin.com/in/srishti-shrivastava-70526033b">
-<img src="https://img.shields.io/badge/LinkedIn-0d1117?style=for-the-badge&logo=linkedin"/>
-</a>
-
-<a href="mailto:9creationjbp@gmail.com">
-<img src="https://img.shields.io/badge/Email-0d1117?style=for-the-badge&logo=gmail"/>
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white">
 </a>
 
 </p>
 
----
+<br>
 
 <p align="center">
-
-```text
-┌────────────────────────────────────────────┐
-│                                            │
-│        BUILD.  BREAK.  LEARN.  REPEAT.    │
-│                                            │
-└────────────────────────────────────────────┘
-```
-
-<img src="https://komarev.com/ghpvc/?username=Srish09-S&label=VISITORS&color=8BE9FD&style=flat-square"/>
-
+  <i>“Code is just the beginning. The real challenge is building something useful.”</i>
 </p>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:24243e,50:302b63,100:0f0c29&height=120&section=footer"/>
+  <img src="https://komarev.com/ghpvc/?username=Srish09-S&label=PROFILE%20VIEWS&color=7C3AED&style=flat-square">
 </p>
