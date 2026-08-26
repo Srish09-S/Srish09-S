@@ -1,152 +1,227 @@
-# 👋 Hey, I'm Srishti
+<!-- ═══════════════════════════════════════════════════════════════ -->
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=Computer+Science+Student;Full+Stack+Developer;DSA+Learner;Building+%26+Breaking+Things&center=true&width=600&height=50&font=Fira+Code&size=24&pause=1000">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=220&section=header&text=SRISHTI&fontSize=70&fontColor=ffffff&fontAlignY=40&desc=BUILDING%20THINGS%20THAT%20MATTER&descAlignY=62&descSize=16&animation=fadeIn"/>
 </p>
 
 <p align="center">
   <a href="https://github.com/Srish09-S">
-    <img src="https://img.shields.io/github/followers/Srish09-S?label=Followers&style=for-the-badge">
+    <img src="https://img.shields.io/badge/GITHUB-0d1117?style=for-the-badge&logo=github&logoColor=white"/>
   </a>
-  <img src="https://komarev.com/ghpvc/?username=Srish09-S&label=Profile%20Views&style=for-the-badge">
+  <a href="https://www.linkedin.com/in/srishti-shrivastava-70526033b">
+    <img src="https://img.shields.io/badge/LINKEDIN-0d1117?style=for-the-badge&logo=linkedin&logoColor=0A66C2"/>
+  </a>
+  <a href="mailto:9creationjbp@gmail.com">
+    <img src="https://img.shields.io/badge/EMAIL-0d1117?style=for-the-badge&logo=gmail&logoColor=EA4335"/>
+  </a>
+</p>
+
+<br>
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com/?font=JetBrains+Mono&size=22&duration=2500&pause=700&color=8BE9FD&center=true&vCenter=true&width=700&height=50&lines=Computer+Science+Student;Full+Stack+Developer;DSA+%7C+JavaScript+%7C+Web;Turning+ideas+into+working+software."/>
 </p>
 
 ---
 
-## 🧑‍💻 About Me
+## `01 / WHO AM I`
 
-```javascript
-const srishti = {
-    role: "Computer Science Student",
-    focus: ["Web Development", "DSA", "Problem Solving"],
-    languages: ["JavaScript", "C++"],
-    currentlyLearning: ["React", "Advanced JavaScript", "DSA"],
-    interests: ["Building Products", "Hackathons", "Open Source"],
-    mindset: "Learn → Build → Break → Fix → Repeat"
-};
+```text
+┌─────────────────────────────────────────────────────────────┐
+│                                                             │
+│   Srishti Shrivastava                                      │
+│   ─────────────────────                                    │
+│                                                             │
+│   CS Student        →  learning by building                │
+│   Developer         →  web • backend • systems              │
+│   Problem Solver    →  DSA • logic • debugging              │
+│   Builder           →  hackathons • products • experiments  │
+│                                                             │
+│   CURRENT STATUS                                           │
+│   ──────────────                                           │
+│   ● Building full-stack projects                            │
+│   ● Grinding DSA                                           │
+│   ● Exploring React / Next.js / Node.js                    │
+│   ● Looking for harder problems to solve                   │
+│                                                             │
+└─────────────────────────────────────────────────────────────┘
 ```
 
-* 🎓 Computer Science student from India
-* 💻 Interested in building **practical, user-focused applications**
-* 🧠 Currently strengthening **DSA & problem-solving**
-* 🌐 Exploring the **modern JavaScript ecosystem**
-* 🚀 Always working on something new
+> **I don't want to just learn technologies.
+> I want to understand what I can build with them.**
 
 ---
 
-## ⚡ Tech Arsenal
+## `02 / THE STACK`
 
-### Languages
+<p align="center">
 
-<p>
-  <img src="https://skillicons.dev/icons?i=cpp,js,html,css" />
-</p>
+### `LANGUAGES`
 
-### Development & Tools
+<img src="https://skillicons.dev/icons?i=cpp,js,html,css" />
 
-<p>
-  <img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,express,tailwind,git,github,vscode" />
-</p>
+### `BUILDING WITH`
 
-### Currently Exploring
+<img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,express,tailwind,mongodb" />
 
-<p>
-  <img src="https://skillicons.dev/icons?i=react,nextjs,mongodb" />
+### `TOOLS`
+
+<img src="https://skillicons.dev/icons?i=git,github,vscode,vercel" />
+
 </p>
 
 ---
 
-## 🚀 What I've Been Building
+## `03 / THINGS I'VE BUILT`
 
----
+<table>
+<tr>
+<td width="50%">
+
+### 🚀 AARAMBH
+
+**Industrial approval & compliance platform**
+
+A unified platform aimed at simplifying the complicated journey of registrations, approvals, compliance and government support for entrepreneurs.
+
+`Next.js` `React` `Node.js` `AI` `SaaS`
+
+**→ Hackathon Project**
+
+</td>
+
+<td width="50%">
 
 ### 💰 Smart Expense Tracker
 
-> A personal finance dashboard for tracking spending and understanding financial habits.
+**Know where your money goes.**
 
-* 📊 Interactive data visualization
-* ⚡ Dynamic expense tracking
-* 🎨 Clean and responsive UI
-* 🧩 Built with JavaScript & Chart.js
+An interactive expense management dashboard with visual analytics and dynamic financial insights.
 
----
+`JavaScript` `Chart.js` `HTML` `CSS`
+
+**→ Web Application**
+
+</td>
+</tr>
+
+<tr>
+<td width="50%">
 
 ### 🌍🌙 Chase Game
 
-> A lightweight browser game where Earth chases the Moon — inspired by classic Snake mechanics.
+**Earth vs Moon.**
 
-* 🎮 JavaScript-based gameplay
-* ⚡ Real-time movement
-* 🧠 Game-state & collision logic
-* 🌐 Runs directly in the browser
+A browser game inspired by Snake mechanics where Earth continuously chases the Moon.
+
+`JavaScript` `Game Logic` `DOM`
+
+**→ Browser Game**
+
+</td>
+
+<td width="50%">
+
+### 🔮 More Experiments
+
+**Ideas → prototypes → lessons**
+
+I'm constantly experimenting with new technologies, APIs, architectures and ideas.
+
+`Learning` `Building` `Breaking` `Fixing`
+
+**→ In Progress**
+
+</td>
+</tr>
+</table>
 
 ---
 
-## 🧠 Currently Learning
+## `04 / CURRENTLY IN THE LAB`
 
-```text
-DSA                 ███████░░░  70%
-JavaScript          ████████░░  80%
-React               ██████░░░░  60%
-Full Stack          ██████░░░░  60%
-System Design       ███░░░░░░░  30%
+```diff
++ DSA
++ Advanced JavaScript
++ React
++ Full-Stack Development
++ Backend Architecture
++ Building better projects
+
+- Writing code just for the sake of writing code
 ```
 
-My current goal:
+### Current objective
 
-> **Become better at solving problems, not just writing code.**
+**Become the developer who can take an idea from**
 
----
-
-## 📊 GitHub Activity
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Srish09-S&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" height="180"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Srish09-S&layout=compact&theme=tokyonight&hide_border=true" height="180"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Srish09-S&theme=tokyonight&hide_border=true"/>
-</p>
+`PROBLEM → ARCHITECTURE → CODE → DEPLOYMENT`
 
 ---
 
-## 📈 Contribution Graph
+## `05 / GITHUB TELEMETRY`
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Srish09-S&theme=tokyo-night&hide_border=true"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=Srish09-S&show_icons=true&theme=transparent&hide_border=true&title_color=8BE9FD&text_color=c9d1d9&icon_color=BD93F9" width="48%"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Srish09-S&layout=compact&theme=transparent&hide_border=true&title_color=8BE9FD&text_color=c9d1d9" width="40%"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Srish09-S&theme=transparent&hide_border=true&ring=BD93F9&fire=FF79C6&currStreakLabel=8BE9FD"/>
 </p>
 
 ---
 
-## 🐍 Contribution Snake
+## `06 / ACTIVITY`
 
 <p align="center">
-  <img src="https://github.com/Srish09-S/Srish09-S/blob/output/github-contribution-grid-snake-dark.svg" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Srish09-S&bg_color=0d1117&color=8be9fd&line=bd93f9&point=ffffff&area=true&hide_border=true"/>
 </p>
 
 ---
 
-## 🤝 Let's Connect
+## `07 / CONTRIBUTION MATRIX`
 
 <p align="center">
-  <a href="mailto:9creationjbp@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
-  </a>
-  <a href="https://github.com/Srish09-S">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-  </a>
-  <a href="https://www.linkedin.com/in/srishti-shrivastava-70526033b">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
+  <img src="https://github.com/Srish09-S/Srish09-S/blob/output/github-contribution-grid-snake-dark.svg"/>
+</p>
+
+---
+
+## `08 / FIND ME`
+
+<p align="center">
+
+<a href="https://github.com/Srish09-S">
+<img src="https://img.shields.io/badge/GitHub-0d1117?style=for-the-badge&logo=github"/>
+</a>
+
+<a href="https://www.linkedin.com/in/srishti-shrivastava-70526033b">
+<img src="https://img.shields.io/badge/LinkedIn-0d1117?style=for-the-badge&logo=linkedin"/>
+</a>
+
+<a href="mailto:9creationjbp@gmail.com">
+<img src="https://img.shields.io/badge/Email-0d1117?style=for-the-badge&logo=gmail"/>
+</a>
+
 </p>
 
 ---
 
 <p align="center">
-  <i>Building things. Solving problems. Learning in public.</i>
+
+```text
+┌────────────────────────────────────────────┐
+│                                            │
+│        BUILD.  BREAK.  LEARN.  REPEAT.    │
+│                                            │
+└────────────────────────────────────────────┘
+```
+
+<img src="https://komarev.com/ghpvc/?username=Srish09-S&label=VISITORS&color=8BE9FD&style=flat-square"/>
+
 </p>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:6a5acd,100:00c6ff&height=100&section=footer"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:24243e,50:302b63,100:0f0c29&height=120&section=footer"/>
 </p>
