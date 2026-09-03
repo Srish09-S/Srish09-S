@@ -23,6 +23,7 @@
   <img src="https://readme-typing-svg.herokuapp.com/?font=JetBrains+Mono&size=22&duration=2500&pause=700&color=8BE9FD&center=true&vCenter=true&width=700&height=50&lines=Computer+Science+Student;Full+Stack+Developer;DSA+%7C+JavaScript+%7C+Web;Turning+ideas+into+working+software."/>
 </p>
 
+
 ---
 
 ## `01 / WHO AM I`
