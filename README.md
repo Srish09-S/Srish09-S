@@ -56,7 +56,7 @@
 
 ## `02 / THE STACK`
 
-<p align="center">
+<p align="center"> 
 
 ### `LANGUAGES`
 
