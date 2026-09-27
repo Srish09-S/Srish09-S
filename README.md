@@ -43,7 +43,7 @@
 │   ──────────────                                           │
 │   ● Building full-stack projects                            │
 │   ● Grinding DSA                                           │
-│   ● Exploring React / Next.js / Node.js                    │
+│   ● Exploring new technologies                    │
 │   ● Looking for harder problems to solve                   │
 │                                                             │
 └─────────────────────────────────────────────────────────────┘
