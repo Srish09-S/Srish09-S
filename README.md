@@ -144,8 +144,6 @@ I'm constantly experimenting with new technologies, APIs, architectures and idea
 
 ```diff
 + DSA
-+ Advanced JavaScript
-+ React
 + Full-Stack Development
 + Backend Architecture
 + Building better projects
