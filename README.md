@@ -192,7 +192,7 @@ I'm constantly experimenting with new technologies, APIs, architectures and idea
 
 ---
 
-## `08 / FIND ME`
+## `08 / FIND ME AT`
 
 <p align="center">
 
