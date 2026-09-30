@@ -31,20 +31,20 @@
 ```text
 ┌─────────────────────────────────────────────────────────────┐
 │                                                             │
-│   Srishti Shrivastava                                      │
-│   ─────────────────────                                    │
+│   Srishti Shrivastava                                       │
+│   ─────────────────────                                     │
 │                                                             │
-│   CS Student        →  learning by building                │
+│   CS Student        →  learning by building                 │
 │   Developer         →  web • backend • systems              │
 │   Problem Solver    →  DSA • logic • debugging              │
 │   Builder           →  hackathons • products • experiments  │
 │                                                             │
-│   CURRENT STATUS                                           │
-│   ──────────────                                           │
+│   CURRENT STATUS                                            │
+│   ──────────────                                            │
 │   ● Building full-stack projects                            │
-│   ● Grinding DSA                                           │
-│   ● Exploring new technologies                             │
-│   ● Looking for harder problems to solve                   │
+│   ● Grinding DSA                                            │
+│   ● Exploring new technologies                              │
+│   ● Looking for harder problems to solve                    │
 │                                                             │
 └─────────────────────────────────────────────────────────────┘
 ```
