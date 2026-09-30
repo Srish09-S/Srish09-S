@@ -58,7 +58,7 @@
 
 <p align="center"> 
 
-### `LANGUAGES`
+### `LANGUAGES `
 
 <img src="https://skillicons.dev/icons?i=cpp,js,html,css" />
 
