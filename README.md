@@ -41,7 +41,8 @@
 │                                                             │
 │   CURRENT STATUS                                            │
 │   ──────────────                                            │
-│   ● Building full-stack projects                            │
+│   ● Building full-stack projects                            |
+|   ● working                                                 │
 │   ● Grinding DSA                                            │
 │   ● Exploring new technologies                              │
 │   ● Looking for harder problems to solve                    │
