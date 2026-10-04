@@ -42,7 +42,7 @@
 │   ──────────────                                            │
 │   ● Building full-stack projects                            |
 |   ● working                                                 │
-│   ● Grinding DSA                                            │
+│   ● Grinding DSA and problem solving                                        │
 │   ● Exploring new technologies                              │
 │   ● Looking for harder problems to solve                    │
 │                                                             │
