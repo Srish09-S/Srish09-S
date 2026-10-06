@@ -33,7 +33,7 @@
 │                                                             │
 │   Srishti Shrivastava                                       │
 │   ─────────────────────                                     │
-│                                                             │
+│                                                             
 │   CS Student        →  learning by building                 │
 │   Developer         →  web • backend • systems              │
 │   Problem Solver    →  DSA • logic • debugging              │
