@@ -32,9 +32,9 @@
 │   ─────────────────────                                     │
 │                                                             
 │   CS Student        →  learning by building and making error                │
-│   Developer         →  web • backend • systems              │
-│   Problem Solver    →  DSA • logic • debugging              │
-│   Builder           →  hackathons • products • experiments  │
+│   Developer         →  web • backend • systems                                  │
+│   Problem Solver    →  DSA • logic • debugging                                │
+│   Builder           →  hackathons • products • experiments                   │
 │                                                             │
 │   CURRENT STATUS                                            │
 │   ──────────────                                            │
