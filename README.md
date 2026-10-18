@@ -30,17 +30,17 @@
 │                                                             │
 │   Srishti Shrivastava                                       │
 │   ─────────────────────                                     │
-│                                                             
-│   CS Student        →  learning by building and making error                │
-│   Developer         →  web • backend • systems                                  │
-│   Problem Solver    →  DSA • logic • debugging                                │
-│   Builder           →  hackathons • products • experiments                   │
+│                                                             | 
+│   CS Student        →  learning by building and making error│
+│   Developer         →  web • backend • systems              │
+│   Problem Solver    →  DSA • logic • debugging              │
+│   Builder           →  hackathons • products • experiments  │
 │                                                             │
 │   CURRENT STATUS                                            │
 │   ──────────────                                            │
 │   ● Building full-stack projects                            |
 |   ● working                                                 │
-│   ● Grinding DSA and problem solving                                        │
+│   ● Grinding DSA and problem solving                        │
 │   ● Exploring new technologies                              │
 │   ● Looking for harder problems to solve                    │
 │                                                             │
