@@ -29,7 +29,7 @@
 ```text
 ┌─────────────────────────────────────────────────────────────────┐
 │                                                                 │
-│   Srishti Shrivastava !                                       │
+│   Srish ti Shrivastava !                                       │
 │   ─────────────────────                                         │
 │                                                                 | 
 │   CS Student        →  learning by building and making error               │
