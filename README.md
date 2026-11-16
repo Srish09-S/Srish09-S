@@ -29,7 +29,7 @@
 ```text
 ┌─────────────────────────────────────────────────────────────────┐
 │                                                                 │
-│   S r i s h t i S h r i v a s t a v a !                                       │
+│   S r i s h t i S h r i v a s t a v a  !                                       │
 │   ─────────────────────                                         │
 │                                                                 | 
 │   CS Student        →  learning by building and making error               │
