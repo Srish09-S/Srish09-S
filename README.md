@@ -31,10 +31,10 @@
 │  S r i s h t i  S h r i v a s t a v a  !                                       │
 │   ─────────────────────                                         │
 │                                                                 | 
-│   CS Student        →  learning by building and making error               │
-│   Developer         →  web • backend • systems                                 │
-│   Problem Solver    →  DSA • logic • debugging                               │
-│   Builder           →  hackathons • products • experiments                  │
+│   CS Student        →  learning by building and making error                 │
+│   Developer         →  web • backend • systems                                   │
+│   Problem Solver    →  DSA • logic • debugging                                 │
+│   Builder           →  hackathons • products • experiments                    │
 │                                                                 │
 │   CURRENT STATUS  _                                              │
 │   ──────────────                                                │
